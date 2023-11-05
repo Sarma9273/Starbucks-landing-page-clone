@@ -1,1 +1,1 @@
-# Starbucks-landing-page-clone
+this is a web landing page made using html css and js 

@@ -280,6 +280,13 @@ header .right-side .nav-link-wrapper a{
     font-size: 16.2px;
     font-weight: bold;
   }
+  .container .left-side a :hover{
+    background: black;
+    color: lightcoral;
+    border: 2px solid lightsalmon;
+    transform: sccale(2.1);
+    box-shadow: 0 0 20px rgb(12, 11, 11);
+  }
 }
 
 @media only screen and (max-width: 404px){
@@ -367,3 +374,4 @@ header .right-side .nav-link-wrapper a{
     transform: sccale(2.1);
     box-shadow: 0 0 20px rgb(12, 11, 11);
   }
+  
